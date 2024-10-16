@@ -1,3 +1,3 @@
 Algorithms and Data Structures - University of Wrocław.
 
-Welcome to my repository from the Algorithms and Data Structures [ongoing] course at the University of Wrocław.
+This repository contains some of the algorithms for excercises from the Algorithms and Data Structures course at the University of Wrocław.
